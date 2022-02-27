@@ -1,5 +1,6 @@
-![Simulator Screen Shot - iPhone 13 Pro - 2022-02-27 at 22 26 54](https://user-images.githubusercontent.com/96727094/155896784-157151af-6371-4e8f-b276-d3ab857358d0.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-02-27 at 22 26 57](https://user-images.githubusercontent.com/96727094/155896792-5ea91868-bc9e-4269-80dc-2a89a8c3970c.png)
+
+<img width="150" alt="Ekran Resmi 2022-02-27 22 29 33" src="https://user-images.githubusercontent.com/96727094/155896863-d771df2c-82d1-4025-a916-5a5700965cf2.png">
+<img width="150" alt="Ekran Resmi 2022-02-27 22 29 57" src="https://user-images.githubusercontent.com/96727094/155896865-840090fa-5d29-416d-b294-7c115852f369.png">
 # neumorphism_logo
 
 A new flutter module project.
